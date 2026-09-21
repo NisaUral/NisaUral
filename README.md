@@ -1,7 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32456349/README.md)
-## Hi there 👋
-
-<!--<p align="center">
+<p align="center">
   <a href="https://github.com/NisaUral">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=730&text=Hello!%20I'm%20Nisa%20Ural" alt="Hello! I&#39;m Nisa Ural" />
   </a>
@@ -77,17 +74,3 @@ solutions using OpenCV, TensorFlow, and PyMuPDF. Seeking an AI / Machine Learnin
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/NisaUral">NisaUral</a></i></p>
-
-**NisaUral/NisaUral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
